@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 ligne une
 pas de bug
+=======
+
+j'en ai marre de git et de github car il a toujours des bugs alors qu'on suit à la lettre les instruction.
+PS : la commande "git push origin new-feature" ne change pas la branche main : témoignage à l'appui.
+
+>>>>>>> 9e44ee7d33236c72b414fd6f3f2099a878c5bb9f
