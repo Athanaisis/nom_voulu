@@ -1,2 +1,4 @@
-ligne 2
-pas de bug
+
+j'en ai marre de git et de github car il a toujours des bugs alors qu'on suit à la lettre les instruction.
+PS : la commande "git push origin new-feature" ne change pas la branche main : témoignage à l'appui.
+
